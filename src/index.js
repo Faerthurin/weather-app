@@ -4,6 +4,7 @@ import ReactDOM from "react-dom";
 import Current from "./Current";
 import CList from "./CList";
 import Search from "./Search";
+import Footer from "./Footer";
 
 import "./index.css";
 
@@ -13,6 +14,7 @@ function App() {
       <Current />
       <CList />
       <Search />
+      <Footer />
     </div>
   );
 }
