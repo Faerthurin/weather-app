@@ -1,0 +1,23 @@
+.search-bar {
+  display: block;
+  margin: 200px 76px;
+}
+#search {
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid #8ea6d9;
+}
+
+#searchbtn {
+  background: rgb(88, 238, 88);
+  border-radius: 5px;
+  border: 1px solid rgb(82, 252, 82);
+  width: 107px;
+}
+
+#currentbtn {
+  background: rgb(88, 238, 88);
+  border-radius: 5px;
+  border: 1px solid rgb(82, 252, 82);
+  width: 107px;
+}
